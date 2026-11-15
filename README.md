@@ -22,6 +22,9 @@ If PlainWallet saves you some hassle, I would really appreciate a small tip to h
 
 [buymeacoffee.com/szabozsm](https://buymeacoffee.com/szabozsm) ☕
 
+
+Detailed help can be found [here](PlainWallet/index.md)
+
 ---
 
 *Thank you for your support!*
